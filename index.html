@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Jokenpô</title>
+</head>
+
+<body>
+    <main id="container">
+        <img src="./assets/Jokenpo-img1.jpg" alt="jokenpo-img">
+
+        <div id="buttons">
+            <button id="rock" onclick="playHuman('rock')">&#x1F44A;</button>
+            <button id="paper" onclick="playHuman('paper')">&#x1f590;</button>
+            <button id="scissors" onclick="playHuman('scissors')">&#x270C;</button>
+        </div>
+
+        <p class="result"></p>
+        <p id="your-score">Sua pontuação: <span class="human-score">0</span></p>
+        <p id="machine-score">Pontuação da Alexa: <span class="machine-score">0</span></p>
+    </main>
+</body>
+<script src="script.js"></script>
+
+</html>
