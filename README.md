@@ -7,6 +7,6 @@ podendo ser igual ou diferente, e mostra se o jogador ganhou, perdeu ou empatou.
 
 ## 🚀 Tecnologias Utilizadas
 
+-   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 -   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 -   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
--   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
