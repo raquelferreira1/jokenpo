@@ -2,8 +2,8 @@
 
 ## 📝 Sobre
 
-Nessa versão on-line do jogo Jokenpô, enquanto o jogador faz sua escolha, o site lança uma opção aleatória, 
-podendo ser igual ou diferente, e mostra se o jogador ganhou, perdeu ou empatou.
+Nessa versão on-line do jogo Jokenpô, o jogador faz sua escolha, e o site lança uma opção aleatória, 
+podendo ser igual ou diferente. O resultado mostra o placar e se o jogador ganhou, perdeu ou empatou.
 
 ## 🚀 Tecnologias Utilizadas
 
