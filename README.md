@@ -2,7 +2,7 @@
 
 ## 📝 Sobre
 
-Jogo Jankenpon, ou "Jokenpô", é um método de seleção entre o jogador e o site. Enquanto o jogador faz sua escolha, o site lança uma opção aleatória, 
+Nessa versão on-line do jogo Jokenpô, enquanto o jogador faz sua escolha, o site lança uma opção aleatória, 
 podendo ser igual ou diferente, e mostra se o jogador ganhou, perdeu ou empatou.
 
 ## 🚀 Tecnologias Utilizadas
